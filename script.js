@@ -7,5 +7,5 @@ const nestedStructure = [
     ]
 ];
 
-const value = nestedStructure[2][1];
+const value = nestedStructure[2][1][0];
 console.log(value)
